@@ -13,8 +13,8 @@ This repository includes my assignments of [Deep Learning Specialization](https:
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
-  - [Week 1 - Initialization](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization.ipynb)
-  - [Week 1 - Regularization](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-  - [Week 1 - Gradient Checking](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar_data_classification_with_one_hidden_layer.ipynb)
-  - [Week 2 - Optimization Methods](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization_methods.ipynb)
-  - [Week 3 - Introduction to TensorFlow](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%203/Tensorflow_introduction.ipynb)
+  - [Week 1 - Initialization](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Improving%20Deep%20Neural%20Networks_%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization.ipynb)
+  - [Week 1 - Regularization](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Improving%20Deep%20Neural%20Networks_%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization.ipynb)
+  - [Week 1 - Gradient Checking](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Improving%20Deep%20Neural%20Networks_%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient_Checking.ipynb)
+  - [Week 2 - Optimization Methods](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Improving%20Deep%20Neural%20Networks_%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization_methods.ipynb)
+  - [Week 3 - Introduction to TensorFlow](https://github.com/x1ew/Deep-Learning-Specialization-coursera/blob/main/Improving%20Deep%20Neural%20Networks_%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%203/Tensorflow_introduction.ipynb)
